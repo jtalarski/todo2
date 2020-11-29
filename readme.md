@@ -3,9 +3,12 @@ See original assignment from Dev
 - create database named python-to-do-app
 - run database.sql query
 - run the following
-    1 `python3 -m venv venv`
-    2 `pip install Flask`
-    3 `pip install psycopg2-binary`
+    virtual environment
+    `python3 -m venv venv`
+    install flask
+    `pip install Flask`
+    install psycopg2
+    `pip install psycopg2-binary`
 - activate virtual environment
     `. venv/bin/activate`
 - spin up server
